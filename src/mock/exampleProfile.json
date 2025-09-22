@@ -1,0 +1,40 @@
+{
+  "id": "user123",
+  "pseudonym": "DeepThinker42",
+  "avatar": "🧠",
+  "mindprint": {
+    "analytical": 85,
+    "creative": 72,
+    "social": 68,
+    "intuitive": 90,
+    "practical": 75,
+    "empathetic": 82
+  },
+  "traits": [
+    "Deep Thinker",
+    "Creative Problem Solver",
+    "Empathetic Listener",
+    "Goal-Oriented",
+    "Intuitive Decision Maker"
+  ],
+  "compatibility": {
+    "idealMatch": {
+      "analytical": [75, 95],
+      "creative": [60, 85],
+      "social": [50, 80],
+      "intuitive": [80, 100],
+      "practical": [65, 85],
+      "empathetic": [70, 90]
+    }
+  },
+  "preferences": {
+    "conversationStyle": "thoughtful",
+    "meetingType": "small groups",
+    "sharedActivities": ["learning", "creating", "discussing ideas"]
+  },
+  "privacySettings": {
+    "profileVisible": true,
+    "dataProcessing": true,
+    "notifications": true
+  }
+}

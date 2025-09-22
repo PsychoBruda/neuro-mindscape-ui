@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "When making decisions, I tend to:",
+    "options": [
+      "Trust my gut instinct immediately",
+      "Analyze all available data first",
+      "Seek input from others before deciding",
+      "Consider long-term consequences carefully"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "In social situations, I feel energized by:",
+    "options": [
+      "Large groups and networking events",
+      "Deep one-on-one conversations",
+      "Helping others solve problems",
+      "Sharing creative ideas and projects"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "My ideal weekend involves:",
+    "options": [
+      "Exploring new places or experiences",
+      "Reading, learning something new",
+      "Spending quality time with loved ones",
+      "Working on personal creative projects"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "When facing challenges, I typically:",
+    "options": [
+      "Tackle them head-on with determination",
+      "Break them down into smaller steps",
+      "Collaborate with others for solutions",
+      "Look for innovative approaches"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What motivates me most is:",
+    "options": [
+      "Achievement and recognition",
+      "Understanding and knowledge",
+      "Connection and relationships",
+      "Creating something meaningful"
+    ]
+  }
+]

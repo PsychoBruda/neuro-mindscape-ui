@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "avatar": "🎨",
+    "pseudonym": "ArtfulThinker",
+    "compatibility": 92,
+    "mindprint": {
+      "analytical": 78,
+      "creative": 95,
+      "social": 70,
+      "intuitive": 88,
+      "practical": 68,
+      "empathetic": 85
+    },
+    "traits": ["Creative", "Analytical", "Empathetic"],
+    "preview": "Loves exploring the intersection of art and psychology",
+    "lastActive": "Active now",
+    "matchType": "Perfect Match",
+    "commonInterests": ["art", "psychology", "deep conversations"],
+    "location": "San Francisco, CA"
+  },
+  {
+    "id": "2",
+    "avatar": "🌙",
+    "pseudonym": "NightOwlPhilosopher",
+    "compatibility": 87,
+    "mindprint": {
+      "analytical": 90,
+      "creative": 65,
+      "social": 55,
+      "intuitive": 92,
+      "practical": 72,
+      "empathetic": 78
+    },
+    "traits": ["Deep Thinker", "Intuitive", "Curious"],
+    "preview": "Enjoys late-night conversations about meaning and purpose",
+    "lastActive": "2 hours ago",
+    "matchType": "Great Match",
+    "commonInterests": ["philosophy", "writing", "stargazing"],
+    "location": "Portland, OR"
+  },
+  {
+    "id": "3",
+    "avatar": "🌸",
+    "pseudonym": "BloomingMind",
+    "compatibility": 84,
+    "mindprint": {
+      "analytical": 70,
+      "creative": 80,
+      "social": 88,
+      "intuitive": 85,
+      "practical": 78,
+      "empathetic": 95
+    },
+    "traits": ["Nurturing", "Creative", "Growth-Oriented"],
+    "preview": "Passionate about personal development and helping others grow",
+    "lastActive": "1 day ago",
+    "matchType": "Good Match",
+    "commonInterests": ["personal development", "gardening", "mentoring"],
+    "location": "Austin, TX"
+  }
+]
