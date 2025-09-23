@@ -30,31 +30,48 @@ NeuroMatch goes beyond surface-level compatibility by analyzing users' cognitive
 
 ### Prerequisites
 
-- Node.js 16+ and npm
-- Git
+- Node.js 18+ or Bun
+- VS Code (recommended) or any modern IDE
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone <YOUR_GIT_URL>
-   cd neuromatch
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    npm install
+   # or for faster builds
+   bun install
    ```
 
-3. **Start development server**
+2. **Start development server**
    ```bash
    npm run dev
+   # or
+   bun dev
    ```
 
-4. **Open your browser**
+3. **Open your browser**
    ```
    http://localhost:8080
    ```
+
+### VS Code Setup (Recommended)
+
+For the best development experience:
+
+1. **Install recommended extensions:**
+   - ES7+ React/Redux/React-Native snippets
+   - Tailwind CSS IntelliSense
+   - TypeScript Hero
+   - Auto Rename Tag
+
+2. **Configure TypeScript:**
+   - Ensure TypeScript is set to workspace version
+   - Use `Cmd/Ctrl + Shift + P` → "TypeScript: Restart TS Server" if issues occur
+
+3. **Troubleshooting common VS Code issues:**
+   - If imports aren't resolving: Check that `@` alias is working
+   - If Tailwind classes aren't autocompleting: Restart Tailwind CSS IntelliSense
+   - If the app won't start: Clear node_modules and reinstall dependencies
 
 ## Project Structure
 
